@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aspersh-Upadhyay
-- 👀 I’m interested in Data Analytics
+## 👋 Hi there, I’m @Aspersh-Upadhyay
+- 👀 I’m Data Analytics Enthusiast
 - 🌱 I’m currently learning Python, SQL, Power BI
-- 💞️ I’m looking to collaborate on some data science projects
-- 📫 How to reach me aspershupadhyay_rush@outlook.com 
+- 👩🏼‍🤝‍👩🏼 I’m looking to collaborate on some data science projects
+- 📫 How to reach me aspershupadhyay.deityrush@gmail.com 
 
 <!---
 Aspersh-Upadhyay/Aspersh-Upadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
