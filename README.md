@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m @Aspersh-Upadhyay
 - 👀 I’m Data Analytics Enthusiast
-- 🌱 I’m currently learning Python, SQL, Power BI
+- 🌱 I’m currently learning Python, SQL, Power BI, Tabldeau
 - 👩🏼‍🤝‍👩🏼 I’m looking to collaborate on some data science projects
 - 📫 How to reach me aspershupadhyay.deityrush@gmail.com 
 
