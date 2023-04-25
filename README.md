@@ -7,7 +7,7 @@ Data Analytics Enthusiast
 * 🌍  I'm based in Delhi India
 * 🖥️  See my portfolio at [Data Pioneers](http://medium.com/@aspershupadhyay)
 * ✉️  How to reach me [aspershupadhyay.deityrush@gmail.com](mailto:aspershupadhyay.deityrush@gmail.com)
-* 🚀  I'm currently working on [Data Pioneers](http://datapioneers.hasnode.dev)
+* 🚀  I'm currently working on [Data Pioneers](https://datapioneers.hashnode.dev/)
 * 🧠  I'm learning Node and Express
 * 🤝  I’m looking to collaborate on some data science projects
 * ⚡  I can kick myself in the head
