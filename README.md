@@ -4,9 +4,9 @@ Hi 👋 there, I’m Aspersh-Upadhyay
 Data Analytics Enthusiast
 -------------------------
 
-* 🌍  I'm based in Delhi India
+* 🌍  I'm residing in New Delhi.
 * ✉️  How to reach me [aspershupadhyay.deityrush@gmail.com](mailto:aspershupadhyay.deityrush@gmail.com)
-* 🧠  I'm learning MS-SQL, Power BI, & Python
+* 🧠  I'm learning SQL-Server, Power BI, & Python
 * 🤝  I’m looking to collaborate on some data science projects
 * ⚡  I can kick myself in the head
 
@@ -17,12 +17,15 @@ Data Analytics Enthusiast
 <p align="left">
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50" height="50" alt="Python" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://svg-files.pixelied.com/3a53bd50-1dbe-49e6-96fd-ef3eef4a62da/pixelied-hi.svg" width="50" height="50" alt="Python" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354127/numpy.svg" width="50" height="50" alt="Numpy" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373589/excel.svg" width="50" height="50" alt="Excel" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png" width="50" height="50" alt="Power BI" /></a>
 
 ### Socials
 <a href="https://www.linkedin.com/in/aspersh-upadhyay/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50" height="50" /></a>
 <a href="https://medium.com/@aspershupadhyay" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968933.png" width="50" height="50" /></a>
-
 </p>
+
 
 ### Wanna have coffee with me
 <a href="https://www.buymeacoffee.com/aspershupadhyay"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
