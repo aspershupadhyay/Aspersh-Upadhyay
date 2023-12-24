@@ -17,6 +17,7 @@ Data Analytics Enthusiast
 <p align="left">
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50" height="50" alt="Python" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://svg-files.pixelied.com/3a53bd50-1dbe-49e6-96fd-ef3eef4a62da/pixelied-hi.svg" width="50" height="50" alt="Python" /></a>
+
 ### Socials
 <a href="https://www.linkedin.com/in/aspersh-upadhyay/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50" height="50" /></a>
 <a href="https://medium.com/@aspershupadhyay" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968933.png" width="50" height="50" /></a>
