@@ -1,4 +1,5 @@
-Hi 👋 there, I’m Aspersh-Upadhyay
+Hey👋,
+I’m Aspersh-Upadhyay
 =================================
 
 Data Analytics Enthusiast
