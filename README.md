@@ -6,7 +6,7 @@ Data Analytics Enthusiast
 -------------------------
 🌏 **Living the vibrant life in New Delhi!**
 
-📧 **Drop me a line at** [aspershupadhyay.deityrush@gmail.com](mailto:aspershupadhyay.deityrush@gmail.com) **– let's connect!**
+📧 **Drop me a line at** [aspershupadhyay.deityrush@gmail.com](mailto:aspershupadhyay@gmail.com) **– let's connect!**
 
 🧠 **Diving deep into the world of** SQL-Server, Power BI, & Python **– always eager to learn more.**
 
